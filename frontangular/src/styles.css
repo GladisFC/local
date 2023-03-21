@@ -1,0 +1,10 @@
+body {
+    width: 100%;
+    height: auto;
+    background-color: #f7ead3;
+  }
+
+  .btn{
+    background-color: #b99cc9;
+    border:1px solid #535353 ;
+  }
