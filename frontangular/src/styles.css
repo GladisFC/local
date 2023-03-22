@@ -8,3 +8,7 @@ body {
     background-color: #b99cc9;
     border:1px solid #535353 ;
   }
+
+  tr td th h2 {
+    white-space: nowrap;
+  }

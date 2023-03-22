@@ -1,0 +1,25 @@
+/*----------------SOBRE MI----------------*/
+#containersobremi {
+    border: #534371 solid;
+  }
+
+  h2 {
+    font-family: 'Bungee Shade', Arial;
+    color: #534371;
+  }
+  
+  
+  #fotoperfil {
+    max-width: 80%;
+    height: auto;
+    margin: 10%;
+  }
+  
+  #columnatexto {
+    background-color: #efd3ef;
+    border-radius: 4mm solido rgb (266 201 206);
+    color: rgb(85, 90, 90);
+    font-size: large;
+    max-width: 80%;
+   
+  }

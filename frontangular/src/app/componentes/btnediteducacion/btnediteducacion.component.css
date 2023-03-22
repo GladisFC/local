@@ -1,0 +1,18 @@
+<!--BOTONES EDIT EDUCACIÓN-->
+<section>
+    <div class="container-fluid text-center">
+        <div class="row align-items-start">
+            <div class="col">
+                <button type="button" class="btn btn-light" data-bs-toggle="modal"
+                    data-bs-target="#editeduModal">EDITAR</button>
+                <button type="button" class="btn btn-light" data-bs-toggle="modal"
+                    data-bs-target="#agregareduModal">AGREGAR
+                </button>
+                <button type="button" class="btn btn-light" data-bs-toggle="modal"
+                    data-bs-target="#BorrareduModal">BORRAR
+                </button>
+            </div>
+        </div>
+    </div>
+    </div>
+</section>
