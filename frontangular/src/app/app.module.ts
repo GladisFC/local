@@ -16,6 +16,10 @@ import { BtneditsobremiComponent } from './componentes/btneditsobremi/btneditsob
 import { BtnediteducacionComponent } from './componentes/btnediteducacion/btnediteducacion.component';
 import { HysComponent } from './componentes/hys/hys.component';
 import { BtnedithysComponent } from './componentes/btnedithys/btnedithys.component';
+import { ExperienciaComponent } from './componentes/experiencia/experiencia.component';
+import { BtneditexperienciaComponent } from './componentes/btneditexperiencia/btneditexperiencia.component';
+import { ProyectosComponent } from './componentes/proyectos/proyectos.component';
+import { BtneditproyectosComponent } from './componentes/btneditproyectos/btneditproyectos.component';
 
 @NgModule({
   declarations: [
@@ -32,7 +36,11 @@ import { BtnedithysComponent } from './componentes/btnedithys/btnedithys.compone
     BtneditsobremiComponent,
     BtnediteducacionComponent,
     HysComponent,
-    BtnedithysComponent
+    BtnedithysComponent,
+    ExperienciaComponent,
+    BtneditexperienciaComponent,
+    ProyectosComponent,
+    BtneditproyectosComponent
   ],
   imports: [
     BrowserModule,

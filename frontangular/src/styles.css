@@ -3,12 +3,29 @@ body {
     height: auto;
     background-color: #f7ead3;
   }
-
+/*--------BOTONES-----*/
   .btn{
     background-color: #b99cc9;
     border:1px solid #535353 ;
   }
-
+/*-----TABLAS-----*/
   tr td th h2 {
     white-space: nowrap;
+  }
+
+  /*-------COLUMNAS--------*/
+#columnas {
+  border: 3mm solid #efd3ef;
+}
+
+/*--------------------MODALES------------------*/
+
+.modal-title { 
+  color: #534371;
+  }
+  
+  .modal-dialog{
+    background-color: #534371;
+    border: #534371 solid 4px;
+    color:#A570C4
   }
