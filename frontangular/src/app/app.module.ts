@@ -20,6 +20,18 @@ import { ExperienciaComponent } from './componentes/experiencia/experiencia.comp
 import { BtneditexperienciaComponent } from './componentes/btneditexperiencia/btneditexperiencia.component';
 import { ProyectosComponent } from './componentes/proyectos/proyectos.component';
 import { BtneditproyectosComponent } from './componentes/btneditproyectos/btneditproyectos.component';
+import { ModalbannerComponent } from './componentes/modalbanner/modalbanner.component';
+import { ModaleditfotoComponent } from './componentes/modaleditfoto/modaleditfoto.component';
+import { ModaleditinfoComponent } from './componentes/modaleditinfo/modaleditinfo.component';
+import { ModalagregarexperienciaComponent } from './componentes/modalagregarexperiencia/modalagregarexperiencia.component';
+import { ModaleditexperienciaComponent } from './componentes/modaleditexperiencia/modaleditexperiencia.component';
+import { ModalborrarexperienciaComponent } from './componentes/modalborrarexperiencia/modalborrarexperiencia.component';
+import { ModalediteducacionComponent } from './componentes/modalediteducacion/modalediteducacion.component';
+import { ModalagregareducacionComponent } from './componentes/modalagregareducacion/modalagregareducacion.component';
+import { ModalborrareducacionComponent } from './componentes/modalborrareducacion/modalborrareducacion.component';
+import { ModaleditproyectosComponent } from './componentes/modaleditproyectos/modaleditproyectos.component';
+import { ModalagregarproyectoComponent } from './componentes/modalagregarproyecto/modalagregarproyecto.component';
+import { ModalborrarproyectoComponent } from './componentes/modalborrarproyecto/modalborrarproyecto.component';
 
 @NgModule({
   declarations: [
@@ -40,7 +52,19 @@ import { BtneditproyectosComponent } from './componentes/btneditproyectos/btnedi
     ExperienciaComponent,
     BtneditexperienciaComponent,
     ProyectosComponent,
-    BtneditproyectosComponent
+    BtneditproyectosComponent,
+    ModalbannerComponent,
+    ModaleditfotoComponent,
+    ModaleditinfoComponent,
+    ModalagregarexperienciaComponent,
+    ModaleditexperienciaComponent,
+    ModalborrarexperienciaComponent,
+    ModalediteducacionComponent,
+    ModalagregareducacionComponent,
+    ModalborrareducacionComponent,
+    ModaleditproyectosComponent,
+    ModalagregarproyectoComponent,
+    ModalborrarproyectoComponent
   ],
   imports: [
     BrowserModule,
